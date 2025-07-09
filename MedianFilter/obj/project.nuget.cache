@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "knrcniQiCKg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viqtop\\source\\repos\\MedianFilter\\MedianFilter\\MedianFilter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viqtop\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\bin\Debug\net8.0\MedianFilter.exe
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\bin\Debug\net8.0\MedianFilter.deps.json
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\bin\Debug\net8.0\MedianFilter.runtimeconfig.json
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\bin\Debug\net8.0\MedianFilter.dll
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\bin\Debug\net8.0\MedianFilter.pdb
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\obj\Debug\net8.0\MedianFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\obj\Debug\net8.0\MedianFilter.AssemblyInfoInputs.cache
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\obj\Debug\net8.0\MedianFilter.AssemblyInfo.cs
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\obj\Debug\net8.0\MedianFilter.csproj.CoreCompileInputs.cache
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\obj\Debug\net8.0\MedianFilter.dll
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\obj\Debug\net8.0\refint\MedianFilter.dll
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\obj\Debug\net8.0\MedianFilter.pdb
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\obj\Debug\net8.0\MedianFilter.genruntimeconfig.cache
+C:\Users\Viqtop\source\repos\MedianFilter\MedianFilter\obj\Debug\net8.0\ref\MedianFilter.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MedianFilter": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
